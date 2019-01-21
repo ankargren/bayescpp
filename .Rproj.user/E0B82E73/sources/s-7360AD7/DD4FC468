@@ -1,0 +1,22 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1548097980907.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "DD4FC468",
+    "lastKnownWriteTime" : 1548098103,
+    "last_content_update" : 1548098103,
+    "path" : "~/Box Sync/R/bayescpp/inst/include/hs.h",
+    "project_path" : "inst/include/hs.h",
+    "properties" : {
+        "cursorPosition" : "10,43",
+        "scrollLine" : "0"
+    },
+    "relative_order" : 4,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "cpp"
+}

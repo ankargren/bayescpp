@@ -1,0 +1,32 @@
+[
+    {
+        "definitions" : [
+        ],
+        "file" : "/Users/sebastianankargren/Box Sync/R/bayescpp/inst/include/bayescpp.h",
+        "file_last_write" : 1547664316
+    },
+    {
+        "definitions" : [
+            {
+                "column" : 18,
+                "file" : "/Users/sebastianankargren/Box Sync/R/bayescpp/inst/include/mvn.h",
+                "kind" : 6,
+                "line" : 3,
+                "name" : "mvn_bcm(const int &, const int &, const int &)",
+                "parent_name" : "",
+                "usr" : "c:@F@mvn_bcm#&1I#S0_#S0_#"
+            },
+            {
+                "column" : 18,
+                "file" : "/Users/sebastianankargren/Box Sync/R/bayescpp/inst/include/mvn.h",
+                "kind" : 6,
+                "line" : 28,
+                "name" : "mvn_rue(const int &, const int &, const int &)",
+                "parent_name" : "",
+                "usr" : "c:@F@mvn_rue#&1I#S0_#S0_#"
+            }
+        ],
+        "file" : "/Users/sebastianankargren/Box Sync/R/bayescpp/inst/include/mvn.h",
+        "file_last_write" : 1547221592
+    }
+]
